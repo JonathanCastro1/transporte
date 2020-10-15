@@ -1,4 +1,3 @@
-#Author: Jonathan Castro<br>
 Versiones:<br>
 Codeigniter 3.1.9<br>
 Base de datos Mysql<br>
